@@ -21,6 +21,8 @@
  *  E-mail : woongbak@sejong.ac.kr
  */
 
+//And my name is Chan Ju. I'm learning Open Source Software.
+
 #include<stdio.h>
 #include<stdlib.h>
 
